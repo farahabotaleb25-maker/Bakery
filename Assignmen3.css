@@ -1,0 +1,16 @@
+.hero-section {
+  background: url('images/drew-coffman-1872.jpg') center/cover no-repeat;
+  height: 100vh;
+  color: #fff;
+  text-align: center;
+}
+.hero-section h1 {font-size: 70px;}
+.hero-section p {font-size: 20px;}
+.logo-img {width: 60px; border-radius: 50%; background: rgba(255,255,255,0.3);}
+.features-list li {margin-bottom: 10px;}
+.baking-item img {height: 250px; object-fit: cover;}
+.site-footer {background: #3c3a36; color: #ccc; padding: 40px 20px;}
+.footer-social a {background: #464544; border-radius: 50%; padding: 10px; margin: 0 5px; display: inline-block;}
+.footer-social a:hover {background: #6c6864;}
+.footer-social img {width: 20px;}
+.location-text {position: relative; top: 65px; left: -10px; text-align: left;}
